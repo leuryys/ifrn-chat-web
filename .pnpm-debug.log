@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_PKG_MANIFEST",
+    "err": {
+      "name": "pnpm",
+      "message": "No package.json found in /home/aluno/[laura]/ifrn-chat-web/[leuryys]/ifrn-chat-web",
+      "code": "ERR_PNPM_NO_PKG_MANIFEST",
+      "stack": "pnpm: No package.json found in /home/aluno/[laura]/ifrn-chat-web/[leuryys]/ifrn-chat-web\n    at handler (/home/aluno/.nvm/versions/node/v18.1.0/lib/node_modules/pnpm/dist/pnpm.cjs:121313:17)\n    at async /home/aluno/.nvm/versions/node/v18.1.0/lib/node_modules/pnpm/dist/pnpm.cjs:176187:21\n    at async run (/home/aluno/.nvm/versions/node/v18.1.0/lib/node_modules/pnpm/dist/pnpm.cjs:176161:34)\n    at async runPnpm (/home/aluno/.nvm/versions/node/v18.1.0/lib/node_modules/pnpm/dist/pnpm.cjs:176379:5)\n    at async /home/aluno/.nvm/versions/node/v18.1.0/lib/node_modules/pnpm/dist/pnpm.cjs:176371:7"
+    }
+  }
+}
